@@ -47,5 +47,4 @@ Run the program.
 
 Then puff! All the subdomains are found by amass automatically for each domain.
 
-You can download the Amass program from here: https://github.com/OWASP/Amass.git It is a really powerful program and I highly recommend using it while you enumerate subdomains, it also has a lot of other features. 
-
+You can download the Amass program from here: https://github.com/OWASP/Amass.git It is a really powerful program and I highly recommend using it while you enumerate subdomains.
